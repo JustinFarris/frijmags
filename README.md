@@ -125,3 +125,4 @@ I know it's kinda gauche to talk about money on Github & Thingiverse, but I'm tr
 * online-convert.com uses potrace, so why doesn't potrace work offline for me? It generates a valid SVG, but the format is not recognized by Tinkercad
 * Use autotrace rather than potrace?
 * Find a way to programmatically find the largest spot for the magnet. OpenSCAD?
+* Take better photos
