@@ -98,9 +98,9 @@ I used two methods to affix the magnets (how to they work? IT'S A MIRACLE!), bot
 
 
 ## Current Etsy Pricing (preliminary, might change)
-I know it's kinda gauche to talk about money on Github & Thingiverse, but I'm trying to be transparent. I'd also like input on what seems fair. I'm not a lawyer, and I can't afford one, so if I'm violating some TOSes (TsOS?), please politely let me know rather than being a dick and reporting me to somebody who can.
+I know it's kinda gauche to talk about money on Github & Thingiverse, but I'm trying to be transparent. I'd also like input on what seems fair. I'm not a lawyer, and I can't afford one, so if I'm violating some TOSes (TsOS?), please politely let me know rather than being a jerk and reporting me to somebody who can.
 
-###Needs more research:
+### Needs more research:
 * Common distributions for writing words?
 * Scrabble sets?
 * Fair-but-profitable pricing? Check etsy & amazon for similar products
