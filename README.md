@@ -118,6 +118,8 @@ I know it's kinda gauche to talk about money on Github & Thingiverse, but I'm tr
 ### (2) Alphanumeric sets, 2-color, single font: **$110**
 ### (2) Alphanumeric sets, 3-color, single font: **$120**
 
+### ***SIMPLER PRICING:*** $50-60 for a single set, contact me for custom orders
+
 ## Notes & TODOs
 * Automate/script the GIMP filters
 * online-convert.com API key: ~/.online-convert
