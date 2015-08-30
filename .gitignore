@@ -1,0 +1,5 @@
+bin/online-convert.sh
+images/*/*PNG
+images/*/*png
+images/*/*SVG
+images/*/*svg
