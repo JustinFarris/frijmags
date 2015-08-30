@@ -118,7 +118,7 @@ I know it's kinda gauche to talk about money on Github & Thingiverse, but I'm tr
 ### (2) Alphanumeric sets, 2-color, single font: **$110**
 ### (2) Alphanumeric sets, 3-color, single font: **$120**
 
-### ***SIMPLER PRICING:*** $50-60 for a single set, contact me for custom orders
+### ***SIMPLER PRICING:*** $50-60 for a single set, $3 for single letters, contact me for custom orders (like this: <https://www.etsy.com/listing/227803998/additional-magnet-letter-or-number>
 
 ## Notes & TODOs
 * Automate/script the GIMP filters
