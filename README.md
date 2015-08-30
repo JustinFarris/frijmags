@@ -6,7 +6,12 @@ I made a set of fridge-mags for my daughter for Christmas using my wife's (beaut
 
 If I'm not too lazy to do so when she starts writing herself, I will some day make a new set from my daughter's handwriting every few months to immortalize (assuming I use ABS and not PLA) the progression of her penmanship. We're hoping she gets her mother's calligraphy skills, not her father's.
 
-If you have a 3d printer and some basic tools and supplies, this repo should be enough info to get you from zero to frijmag in around 6 houtd. However, if this all sounds neat to you, but you don't really want to do all the stuff below, then fear not! I sell these, custom made from your font template, on Etsy: <http://farrisfair.etsy.com>.
+If you have a 3d printer and some basic tools and supplies, this repo should be enough info to get you from zero to frijmag in around 6 hours. However, if this all sounds neat to you, but you don't really want to do all the stuff below, then fear not! I sell these, custom made from your font template, on Etsy: <http://farrisfair.etsy.com>.
+
+### Recursive cross-posty links:
+* Evil, nasty Thingiverse: <http://www.thingiverse.com/thing:991549>
+* Rad, awesome Github: <https://github.com/JustinFarris/frijmags>
+* Yarny, stay-at-home-mommy Etsy: <http://farrisfair.etsy.com>
 
 ## Create your font
 ### <http://www.myscriptfont.com>
